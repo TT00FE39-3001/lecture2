@@ -46,7 +46,7 @@
 
 ## Part 3: Algorithm techniques
 
-- [Divide-and-Conquer](https://en.wikipedia.org/wiki/Divide-and-conquer_algorithm)
+- Divide-and-Conquer: [Wiki](https://en.wikipedia.org/wiki/Divide-and-conquer_algorithm), [Geeks4Geeks](https://www.geeksforgeeks.org/introduction-to-divide-and-conquer-algorithm-data-structure-and-algorithm-tutorials/)
 - [Activity 3](./activity3/README.md)
 
 ---

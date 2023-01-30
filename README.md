@@ -46,7 +46,8 @@
 
 ## Part 3: Algorithm techniques
 
-- Divide-and-Conquer: [Wiki](https://en.wikipedia.org/wiki/Divide-and-conquer_algorithm), [Geeks4Geeks](https://www.geeksforgeeks.org/introduction-to-divide-and-conquer-algorithm-data-structure-and-algorithm-tutorials/)
+- Divide-and-Conquer: [Wiki](https://en.wikipedia.org/wiki/Divide-and-conquer_algorithm),
+  - [Typical exam question](https://www.geeksforgeeks.org/introduction-to-divide-and-conquer-algorithm-data-structure-and-algorithm-tutorials/): Find the maximum and minimum element in a given array, using the divide and conquer technique.
 - [Activity 3](./activity3/README.md)
 
 ---

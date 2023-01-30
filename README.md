@@ -37,7 +37,7 @@
 
 ## Part 2: Analyses tools
 
-- Math review: [Logarithms](https://www.mathsisfun.com/algebra/logarithms.html)
+- Math review: [Logarithms](https://www.mathsisfun.com/algebra/logarithms.html), [Exponential](https://en.wikipedia.org/wiki/Wheat_and_chessboard_problem)
 - [Big $O$](https://justin.abrah.ms/computer-science/big-o-notation-explained.html)
 - Tools: [Graphing online](https://www.mathway.com/graph)
 - [Activity 2](./activity2/README.md)
